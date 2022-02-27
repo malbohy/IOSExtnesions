@@ -1,0 +1,52 @@
+PODS:
+  - Extenstions (0.0.9):
+    - Extenstions/AccessabilityId (= 0.0.9)
+    - Extenstions/AVPlayerExtenstions (= 0.0.9)
+    - Extenstions/Bundle (= 0.0.9)
+    - Extenstions/Decodable (= 0.0.9)
+    - Extenstions/Encodable (= 0.0.9)
+    - Extenstions/FileManager (= 0.0.9)
+    - Extenstions/Float (= 0.0.9)
+    - Extenstions/NSMutableAttributedString (= 0.0.9)
+    - Extenstions/String (= 0.0.9)
+    - Extenstions/UIDevice (= 0.0.9)
+    - Extenstions/UIImage (= 0.0.9)
+    - Extenstions/UILabel (= 0.0.9)
+    - Extenstions/UIScrollView (= 0.0.9)
+    - Extenstions/UITableView (= 0.0.9)
+    - Extenstions/UIView (= 0.0.9)
+    - Extenstions/UIViewController (= 0.0.9)
+    - Extenstions/URL (= 0.0.9)
+  - Extenstions/AccessabilityId (0.0.9):
+    - Extenstions/UIView
+  - Extenstions/AVPlayerExtenstions (0.0.9)
+  - Extenstions/Bundle (0.0.9)
+  - Extenstions/Decodable (0.0.9)
+  - Extenstions/Encodable (0.0.9)
+  - Extenstions/FileManager (0.0.9)
+  - Extenstions/Float (0.0.9)
+  - Extenstions/NSMutableAttributedString (0.0.9):
+    - Extenstions/String
+  - Extenstions/String (0.0.9)
+  - Extenstions/UIDevice (0.0.9)
+  - Extenstions/UIImage (0.0.9)
+  - Extenstions/UILabel (0.0.9)
+  - Extenstions/UIScrollView (0.0.9)
+  - Extenstions/UITableView (0.0.9)
+  - Extenstions/UIView (0.0.9)
+  - Extenstions/UIViewController (0.0.9)
+  - Extenstions/URL (0.0.9)
+
+DEPENDENCIES:
+  - Extenstions (from `../`)
+
+EXTERNAL SOURCES:
+  Extenstions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Extenstions: 77603095fa1cd928160698f107860f2fc893b4d8
+
+PODFILE CHECKSUM: 9ffea8bdf2c8677e45562833ebb4d9ede5dd322a
+
+COCOAPODS: 1.10.0
