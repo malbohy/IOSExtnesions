@@ -36,7 +36,7 @@ public extension UIView {
         }
     }
     
-    public var screenshot: UIImage? {
+    var screenshot: UIImage? {
         UIGraphicsBeginImageContextWithOptions(layer.frame.size, false, 0)
         defer {
             UIGraphicsEndImageContext()
@@ -46,7 +46,7 @@ public extension UIView {
         return UIGraphicsGetImageFromCurrentImageContext()
     }
     
-    public var parentViewController: UIViewController? {
+    var parentViewController: UIViewController? {
         if let nextResponder = self.next as? UIViewController {
             return nextResponder
         } else if let nextResponder = self.next as? UIView {
