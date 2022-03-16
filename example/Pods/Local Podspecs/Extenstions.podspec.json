@@ -1,6 +1,6 @@
 {
   "name": "Extenstions",
-  "version": "0.0.9",
+  "version": "0.1.2",
   "summary": "simple extenstion for adding accessability id for alert actions",
   "description": "this pod should be used to add accessability id for alert actions when needed to provide the testing team a way to auomate the testing process",
   "homepage": "https://nagwa-limited@dev.azure.com/nagwa-limited/Nagwa-Libraries-IOS/_git/Extenstions",
@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://nagwa-limited@dev.azure.com/nagwa-limited/Nagwa-Libraries-IOS/_git/Extenstions",
-    "tag": "0.0.9"
+    "tag": "0.1.2"
   },
   "source_files": "Extenstions/Extenstions/**/*",
   "subspecs": [
@@ -97,6 +97,14 @@
     {
       "name": "AVPlayerExtenstions",
       "source_files": "AVPlayerExtenstions/Classes/**/*"
+    },
+    {
+      "name": "UIApplication",
+      "source_files": "UIApplication/Classes/**/*"
+    },
+    {
+      "name": "Optional",
+      "source_files": "Optional/Classes/**/*"
     }
   ]
 }

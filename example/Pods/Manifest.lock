@@ -1,41 +1,45 @@
 PODS:
-  - Extenstions (0.0.9):
-    - Extenstions/AccessabilityId (= 0.0.9)
-    - Extenstions/AVPlayerExtenstions (= 0.0.9)
-    - Extenstions/Bundle (= 0.0.9)
-    - Extenstions/Decodable (= 0.0.9)
-    - Extenstions/Encodable (= 0.0.9)
-    - Extenstions/FileManager (= 0.0.9)
-    - Extenstions/Float (= 0.0.9)
-    - Extenstions/NSMutableAttributedString (= 0.0.9)
-    - Extenstions/String (= 0.0.9)
-    - Extenstions/UIDevice (= 0.0.9)
-    - Extenstions/UIImage (= 0.0.9)
-    - Extenstions/UILabel (= 0.0.9)
-    - Extenstions/UIScrollView (= 0.0.9)
-    - Extenstions/UITableView (= 0.0.9)
-    - Extenstions/UIView (= 0.0.9)
-    - Extenstions/UIViewController (= 0.0.9)
-    - Extenstions/URL (= 0.0.9)
-  - Extenstions/AccessabilityId (0.0.9):
+  - Extenstions (0.1.2):
+    - Extenstions/AccessabilityId (= 0.1.2)
+    - Extenstions/AVPlayerExtenstions (= 0.1.2)
+    - Extenstions/Bundle (= 0.1.2)
+    - Extenstions/Decodable (= 0.1.2)
+    - Extenstions/Encodable (= 0.1.2)
+    - Extenstions/FileManager (= 0.1.2)
+    - Extenstions/Float (= 0.1.2)
+    - Extenstions/NSMutableAttributedString (= 0.1.2)
+    - Extenstions/Optional (= 0.1.2)
+    - Extenstions/String (= 0.1.2)
+    - Extenstions/UIApplication (= 0.1.2)
+    - Extenstions/UIDevice (= 0.1.2)
+    - Extenstions/UIImage (= 0.1.2)
+    - Extenstions/UILabel (= 0.1.2)
+    - Extenstions/UIScrollView (= 0.1.2)
+    - Extenstions/UITableView (= 0.1.2)
+    - Extenstions/UIView (= 0.1.2)
+    - Extenstions/UIViewController (= 0.1.2)
+    - Extenstions/URL (= 0.1.2)
+  - Extenstions/AccessabilityId (0.1.2):
     - Extenstions/UIView
-  - Extenstions/AVPlayerExtenstions (0.0.9)
-  - Extenstions/Bundle (0.0.9)
-  - Extenstions/Decodable (0.0.9)
-  - Extenstions/Encodable (0.0.9)
-  - Extenstions/FileManager (0.0.9)
-  - Extenstions/Float (0.0.9)
-  - Extenstions/NSMutableAttributedString (0.0.9):
+  - Extenstions/AVPlayerExtenstions (0.1.2)
+  - Extenstions/Bundle (0.1.2)
+  - Extenstions/Decodable (0.1.2)
+  - Extenstions/Encodable (0.1.2)
+  - Extenstions/FileManager (0.1.2)
+  - Extenstions/Float (0.1.2)
+  - Extenstions/NSMutableAttributedString (0.1.2):
     - Extenstions/String
-  - Extenstions/String (0.0.9)
-  - Extenstions/UIDevice (0.0.9)
-  - Extenstions/UIImage (0.0.9)
-  - Extenstions/UILabel (0.0.9)
-  - Extenstions/UIScrollView (0.0.9)
-  - Extenstions/UITableView (0.0.9)
-  - Extenstions/UIView (0.0.9)
-  - Extenstions/UIViewController (0.0.9)
-  - Extenstions/URL (0.0.9)
+  - Extenstions/Optional (0.1.2)
+  - Extenstions/String (0.1.2)
+  - Extenstions/UIApplication (0.1.2)
+  - Extenstions/UIDevice (0.1.2)
+  - Extenstions/UIImage (0.1.2)
+  - Extenstions/UILabel (0.1.2)
+  - Extenstions/UIScrollView (0.1.2)
+  - Extenstions/UITableView (0.1.2)
+  - Extenstions/UIView (0.1.2)
+  - Extenstions/UIViewController (0.1.2)
+  - Extenstions/URL (0.1.2)
 
 DEPENDENCIES:
   - Extenstions (from `../`)
@@ -45,8 +49,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Extenstions: 77603095fa1cd928160698f107860f2fc893b4d8
+  Extenstions: 793a54f3a59dddb0819a4b2beb996aabe4d3e177
 
 PODFILE CHECKSUM: 9ffea8bdf2c8677e45562833ebb4d9ede5dd322a
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.11.2

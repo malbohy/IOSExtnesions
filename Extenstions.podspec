@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Extenstions"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "simple extenstion for adding accessability id for alert actions"
 
   # This description is used to generate tags and improve search results.
@@ -167,6 +167,13 @@ spec.subspec 'AVPlayerExtenstions' do |aVPlayerExtenstions|
   aVPlayerExtenstions.source_files   = 'AVPlayerExtenstions/Classes/**/*'
 end
 
+spec.subspec 'UIApplication' do |url|
+  url.source_files   = 'UIApplication/Classes/**/*'
+end
+
+spec.subspec 'Optional' do |url|
+  url.source_files   = 'Optional/Classes/**/*'
+end
 
   # spec.exclude_files = "Classes/Exclude"
 
