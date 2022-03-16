@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Extenstions"
-  spec.version      = "0.1.2"
+  spec.version      = "0.1.3"
   spec.summary      = "simple extenstion for adding accessability id for alert actions"
 
   # This description is used to generate tags and improve search results.
